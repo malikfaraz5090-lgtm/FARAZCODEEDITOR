@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.aistudio.code2apk.fxrtqp">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -27,7 +28,7 @@
 
         <provider
             android:name="com.example.data.ProjectProvider"
-            android:authorities="com.example.fccode.provider"
+            android:authorities="com.aistudio.code2apk.fxrtqp.provider"
             android:exported="true" />
     </application>
 
