@@ -1,0 +1,6 @@
+{
+  "name": "FC Code Studio",
+  "description": "A powerful offline code editor for HTML/CSS/JS with a real-time live preview split-editor and a fully working, installable on-device APK previewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
